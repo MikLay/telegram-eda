@@ -1,0 +1,9 @@
+[submodule "telegram-data-collection"]
+	path = telegram-data-collection
+	url = https://github.com/SanGreel/telegram-data-collection
+[submodule "telegram-dialogs-analysis-v2"]
+	path = telegram-dialogs-analysis-v2
+	url = https://github.com/SanGreel/telegram-dialogs-analysis-v2
+[submodule "tone-dict-ukrainian"]
+	path = tone-dict-ukrainian
+	url = https://github.com/SanGreel/tone-dict-ukrainian
