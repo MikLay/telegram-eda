@@ -2,7 +2,7 @@
 
 The main idea of the work was to research information downloaded from Telegram's feed and find regularities between data and real events. Define questions and try to answer them with understandable visualizations.
 
-## Structure
+## *Structure*
 
 1. [telegram-data-collection](https://github.com/SanGreel/telegram-data-collection)
     - Scripts for downloading Telegram data.
@@ -17,11 +17,14 @@ The main idea of the work was to research information downloaded from Telegram's
 3. [3_eda_v2.ipynb](https://github.com/MikLay/telegram-eda/blob/main/3_eda_v2.ipynb)
     - **The main** file with all data processing and representations. 
     - Just run all cells after running scripts above.
+    
+4. [7_11.pdf](https://github.com/MikLay/telegram-eda/blob/main/7_11.pdf)
+    - The presentation of the work with sum ups of the research
 
 ## *Usage*
 
 Follow instructions in proper folder.
 For 
 
-## **Requirements**
+## *Requirements*
 Python 3.8.13
